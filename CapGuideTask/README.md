@@ -1,10 +1,10 @@
 
 # Welcome to the repository!
 
-This repository helps in determining the top 10 colleges for Civil Engineering at Savitribai Phule University. To do so, we first scrape the data off of the pdf provided by the Maharashtra government. Then with the help of pandas, we do the processing to get the results.
+This repository helps in determining the **top 10 colleges for Civil Engineering under Savitribai Phule University**. To do so, we first scrape the data off of the pdf provided by the **Maharashtra** government. Then with the help of pandas, we do the processing to get the results.
 
- - [Top 10 colleges according to General Open Category Cut-Offs](https://github.com/vishxm/DataScienceNBs/blob/master/CapGuideTask/civilTop10.ipynb)
- - [Top 10 colleges according to General and Ladies Open Category Cut-Offs](https://github.com/vishxm/DataScienceNBs/blob/master/CapGuideTask/civilTop10New.ipynb)
+ - [Top 10 colleges according to **General Open Category Cut-Offs**](https://github.com/vishxm/DataScienceNBs/blob/master/CapGuideTask/civilTop10.ipynb)
+ - [Top 10 colleges according to **General and Ladies Open Category Cut-Offs**](https://github.com/vishxm/DataScienceNBs/blob/master/CapGuideTask/civilTop10New.ipynb)
 
 
 ## Future additions
