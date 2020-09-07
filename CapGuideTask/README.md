@@ -22,5 +22,14 @@ import pandas as pd
 import PyPDF2
 ```
 
+## Resources
+The PDF containing the cut-off ranks data has not been downloaded from public-available websites, and if copyrights are violated, contact me for the same.
+Excel sheet has been converted by [ILovePdf.com](https://www.ilovepdf.com/) and all the credits are given to that website in helping create this project.
+
+## Contrinutions
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update the tests as appropriate.
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
