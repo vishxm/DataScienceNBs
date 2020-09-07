@@ -1,6 +1,8 @@
 # Welcome to the repository!
 
 This repository helps in determining the top 10 colleges for Civil Engineering at Savitribai Phule University. To do so, we first scrape the data off of the pdf provided by the Maharashtra government. Then with the help of pandas, we do the processing to get the results.
+[Top 10 colleges according to General Open Category Cut-Offs](https://github.com/vishxm/DataScienceNBs/blob/master/CapGuideTask/civilTop10.ipynb)
+[Top 10 colleges according to General and Ladies Open Category Cut-Offs](https://github.com/vishxm/DataScienceNBs/blob/master/CapGuideTask/civilTop10New.ipynb)
 
 ## Future additions
 
@@ -26,7 +28,7 @@ import PyPDF2
 The PDF containing the cut-off ranks data has not been downloaded from public-available websites, and if copyrights are violated, contact me for the same.
 Excel sheet has been converted by [ILovePdf.com](https://www.ilovepdf.com/) and all the credits are given to that website in helping create this project.
 
-## Contrinutions
+## Contributions
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update the tests as appropriate.
