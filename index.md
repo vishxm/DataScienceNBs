@@ -1,4 +1,3 @@
-# Welcome to the repository!
 This repository is made to store the Jupyer notebooks I have created while learning Data Science. Some of them were made with inspiration from some another great and informative notebooks. All the necessary copyrights and references have been mentioned in the notebooks itself. 
 
 ## List of projects:
