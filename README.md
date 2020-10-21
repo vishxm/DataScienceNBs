@@ -7,6 +7,7 @@ This repository is made to store the Jupyer notebooks I have created while learn
 3. [PDF Scraping to find top colleges :](https://github.com/vishxm/DataScienceNBs/tree/master/CapGuideTask) Top 10 colleges to pursue Civil Engineering were listed whose home university was Savitribai Phule.
 4. [Customer Intention Prediction](https://github.com/vishxm/DataScienceNBs/tree/master/CustomerIntention) done using the number duration spent on administrative, informational and related-products page.
 5. [Iris Species Analysis]() Analysis on classic Iris species dataset
+6. [Online Shopping](https://github.com/nikjohn7/DataScienceNBs/tree/master/online-shopping) Analysis of user data on an ecommerce platform to predict the amount of money they will spend in a year
 
 ## More notebooks to be added in the future!
 :)
